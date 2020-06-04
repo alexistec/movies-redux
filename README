@@ -1,3 +1,8 @@
-#Movie Finder project
+# Movie Finder project
 
 Implementing react, redux, saga
+
+# Run App
+
+1.npm install
+2.Run `npm run dev`
